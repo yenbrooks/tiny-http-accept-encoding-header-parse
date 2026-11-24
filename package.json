@@ -1,6 +1,6 @@
 {
   "name": "tiny-http-accept-encoding-header-parse",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Turns an Accept-Encoding header value into codings sorted by quality factor.",
   "type": "module",
   "main": "src/index.js",
